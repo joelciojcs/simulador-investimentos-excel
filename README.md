@@ -15,7 +15,7 @@ Permitir que o usuário simule, de forma simples, diferentes cenários de invest
 
 ## 🛠️ Funcionalidades
 - Cálculo de valor futuro
-- Simulação de cenários
+- Simulação de difrentes cenários de investimento
 - Uso de fórmulas financeiras do Excel
 - Calculo de acordo com o perfil (Agressivo, moderado, conservador)
 
