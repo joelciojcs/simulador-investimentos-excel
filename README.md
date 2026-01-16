@@ -21,7 +21,7 @@ Permitir que o usuário simule, de forma simples, diferentes cenários de invest
 
 ## ▶️ Como Usar
 1. Abra o arquivo `Simulador_Investimentos.xlsx`
-2. Insira os dados solicitados na tabela CONFIGURAÇÕES (salário, o rendimento anunciado ou desejado). a seguir informe aporte inicial, tempo de aplicação (em meses) e a taxa mensal anunciada
+2. Insira os dados solicitados na tabela CONFIGURAÇÕES (salário, o rendimento anunciado ou desejado). a seguir informe valor de aporte inicial, tempo de aplicação (em meses) e a taxa mensal anunciada
 3. Analise os resultados
 
 ## 📈 Próximos Passos (Evolução)
